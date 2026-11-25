@@ -1,0 +1,6 @@
+[![make.fun · u-suzy-one-line-office-joke-laugh-off-f574ac73](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=makefun&utm_medium=badge&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![rank](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/Ikball53/u-suzy-one-line-office-joke-laugh-off-f574ac73/rank.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![reward](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/Ikball53/u-suzy-one-line-office-joke-laugh-off-f574ac73/reward.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=makefun&utm_medium=badge&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+# One-Line Office Joke Laugh-Off
+
+A single original one-line joke about office life, built for the make.fun Laugh-Off. The entry plays on the most dreaded phrase in any performance review and takes it to its most absurd logical extreme. The joke is produced by `main.py`, which writes exactly one line to `entry.txt` with no trailing newline.
